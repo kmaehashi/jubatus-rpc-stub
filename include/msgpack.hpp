@@ -1,0 +1,1 @@
+#define MSGPACK_DEFINE(...)
